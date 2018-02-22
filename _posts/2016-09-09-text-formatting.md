@@ -3,7 +3,7 @@ layout: post
 title: "Teaching at Schools"
 categories: sample
 tags: [sample]
-image: schools.jpg
+image: school.jpg
 ---
 
 # Markdown Support
