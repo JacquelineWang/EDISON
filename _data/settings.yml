@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'EDISON', folder: 'pages', file: 'facts.html'}
+- {name: 'Intro', folder: 'pages', file: 'intro.html'}
 - {name: 'People', folder: 'pages', file: 'resources.html'}
 - {name: 'Schools', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Activities', folder: 'pages', file: 'documentation.html'}
