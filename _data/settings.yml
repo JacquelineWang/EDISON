@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Intro', folder: 'pages', file: 'intro.html'}
-- {name: 'People', folder: 'pages', file: 'resources.html'}
+- {name: 'People', folder: 'pages', file: 'people.html'}
 - {name: 'Schools', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Activities', folder: 'pages', file: 'documentation.html'}
 - {name: 'Gallery', folder: 'pages', file: 'about.html'}
