@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Teaching at Schools"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: schools.jpg
 ---
 
 # Markdown Support
