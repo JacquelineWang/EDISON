@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
+title: "People"
+categories: People
 tags: [documentation,sample]
-image: city-2.jpg
+image: people.jpg
 ---
 
 # Millennial
