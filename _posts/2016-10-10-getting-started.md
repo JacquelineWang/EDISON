@@ -2,7 +2,7 @@
 layout: post
 title: "People"
 categories: people
-tags: [documentation,sample]
+tags: [documentation, sample]
 image: people.jpg
 ---
 

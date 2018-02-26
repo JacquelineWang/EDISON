@@ -8,10 +8,10 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Intro', folder: 'pages', file: 'intro.html'}
 - {name: 'People', folder: 'pages', file: 'people.html'}
-- {name: 'Schools', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Activities', folder: 'pages', file: 'documentation.html'}
-- {name: 'Gallery', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Schools', folder: 'pages', file: 'schools.html'}
+- {name: 'Activities', folder: 'pages', file: 'activities.html'}
+- {name: 'Gallery', folder: 'pages', file: 'gallery.md'}
+- {name: 'Contact', folder: 'pages', file: 'contact.md'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
