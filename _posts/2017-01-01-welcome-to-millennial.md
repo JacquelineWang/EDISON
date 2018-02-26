@@ -2,7 +2,7 @@
 layout: post
 title: "What is EDISON?"
 author: "Jacqueline Wang"
-categories: sample
+categories: intro
 tags: [documentation,sample]
 image: edison-logo.jpg
 ---
