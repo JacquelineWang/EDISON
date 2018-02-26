@@ -10,8 +10,8 @@ menu:
 - {name: 'People', folder: 'pages', file: 'people.html'}
 - {name: 'Schools', folder: 'pages', file: 'schools.html'}
 - {name: 'Activities', folder: 'pages', file: 'activities.html'}
-- {name: 'Gallery', folder: 'pages', file: 'gallery.md'}
-- {name: 'Contact', folder: 'pages', file: 'contact.md'}
+- {name: 'Gallery', folder: 'pages', file: 'gallery.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
