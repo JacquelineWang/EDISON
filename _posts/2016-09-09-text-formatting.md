@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teaching at Schools"
-categories: sample
+categories: schools
 tags: [sample]
 image: school.jpg
 ---
