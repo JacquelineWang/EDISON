@@ -23,7 +23,3 @@ Work in a group of 5-7 other interns
 ### AIESEC
 
 AIESEC is a non-governmental not-for-profit organization in consultative status with the United Nations Economic and Social Council (ECOSOC), affiliated with the UN DPI, member of ICMYO, and is recognized by UNESCO. AIESEC International is registered as a Foundation (Stichting), RSIN 807103895 in Rotterdam, The Netherlands.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
